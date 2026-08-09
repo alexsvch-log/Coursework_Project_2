@@ -1,0 +1,26 @@
+[
+    {
+        "callsign": "AFR012",
+        "country": "France",
+        "velocity": 265.4,
+        "altitude": 11800.0
+    },
+    {
+        "callsign": "AAL123",
+        "country": "United States",
+        "velocity": 250.3,
+        "altitude": 10200.5
+    },
+    {
+        "callsign": "ACA850",
+        "country": "Canada",
+        "velocity": 242.1,
+        "altitude": 9800.0
+    },
+    {
+        "callsign": "DLH9x",
+        "country": "Germany",
+        "velocity": 210.5,
+        "altitude": 8500.0
+    }
+]
